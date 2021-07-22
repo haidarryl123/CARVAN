@@ -1,0 +1,10 @@
+[{"id":"L1","name":"Aventador S","image":"images/lambor1.jpg","brand":"lamborghini","price":"2.000.000","range":"Coupé"},
+	{"id":"L2","name":"Aventador SVJ","image":"images/lambor2.jpg","brand":"lamborghini","price":"2.220.000","range":"Coupé"},
+	{"id":"L3","name":"Huracán LP610-4","image":"images/lambor3.jpg","brand":"lamborghini","price":"2.100.000","range":"Coupé"},
+	{"id":"L4","name":"Huracán LP580-2","image":"images/lambor4.jpg","brand":"lamborghini","price":"2.900.000","range":"Coupé"},
+	{"id":"L5","name":"Huracán Performante","image":"images/lambor5.jpg","brand":"lamborghini","price":"2.130.000","range":"Coupé"},
+	{"id":"L6","name":"Urus 2019","image":"images/lambor6.jpg","brand":"lamborghini","price":"2.910.000","range":"SUV"},
+	{"id":"L7","name":"Urus 2020","image":"images/lambor7.png","brand":"lamborghini","price":"2.500.000","range":"SUV"},
+	{"id":"L8","name":"Huracán Evo","image":"images/lambor8.jpg","brand":"lamborghini","price":"2.980.000","range":"Coupé"},
+	{"id":"L9","name":"Venovo","image":"images/lambor9.png","brand":"lamborghini","price":"2.120.000","range":"Coupé"},
+	{"id":"L10","name":"Sian","image":"images/lambor10.png","brand":"lamborghini","price":"2.095.000","range":"Coupé"}]

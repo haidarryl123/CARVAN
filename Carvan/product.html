@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html ng-app="myApp" ng-controller="myCtrl">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CARVAN</title>
+	<link rel="icon" href="images/logo.png">
+	<link rel="stylesheet" href="Boostrap4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/product.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
+</head>
+<body>
+	<!-- Header -->
+	<div class="header">
+		<div class="container-fluid">
+			<nav>
+				<ul>
+					<li class="logo-header">
+						<a href="index.html"><img src="images/logo.png"></a>
+					</li>
+					<li class="mobi-li"><a href="#!" class="link-trans">CARVAN</a></li>
+					<li class="mobi-li"><a href="#!mercedes" class="link-trans">Mercedes</a></li>
+					<li class="mobi-li"><a href="#!lamborghini" class="link-trans">Lamborghini</a></li>
+					<li class="mobi-li"><a href="#!bmw" class="link-trans">BMW</a></li>
+					<li class="mobi-li"><a href="#!vinfast" class="link-trans">VinFast</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+
+	<!-- Menu for Mobile -->
+	<div class="pos-f-t menuMobile">
+		<nav class="navbar navbar-dark bg-dark">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mobile_menu" aria-controls="mobile_menu" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="logoBox">
+				<a href="index.html"><img src="images/logo.png"></a>
+			</div>
+		</nav>
+		<div class="collapse" id="mobile_menu">
+			<div class="bg-dark p-3">
+				<ul>
+					<li><a href="#!" data-toggle="collapse" data-target="#mobile_menu">CARVAN</a></li>
+					<li><a href="#!mercedes" data-toggle="collapse" data-target="#mobile_menu">Mercedes</a></li>
+					<li><a href="#!lamborghini" data-toggle="collapse" data-target="#mobile_menu">Lamborghini</a></li>
+					<li><a href="#!bmw" data-toggle="collapse" data-target="#mobile_menu">BMW</a></li>
+					<li><a href="#!vinfast" data-toggle="collapse" data-target="#mobile_menu">VinFast</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- End of menu for Mobile -->
+
+	<!-- End of header -->
+
+	<!-- ng-view product -->
+	<ng-view></ng-view>
+
+	<!-- Footer -->
+	<div class="footer">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-7">
+					<ul>
+						<li><a href="about.html" class="link-trans">COMPANY</a></li>
+						<li><a href="contact.html" class="link-trans">CONTACT US</a></li>
+						<li><a href="blog.html" class="link-trans">MEDIA CENTER</a></li>
+					</ul>
+				</div>
+				<div class="col-md-5 icon-link">
+					<i class="fab fa-facebook-f"></i>
+					<i class="fab fa-twitter"></i>
+					<i class="fab fa-youtube"></i>
+					<i class="fab fa-instagram"></i>
+					<i class="fab fa-linkedin-in"></i>
+					<i class="fab fa-weibo"></i>
+				</div>
+				<div class="col-md-12">
+					<div class="footer-line"></div>
+				</div>
+				<div class="col-md-12 text-secondary">
+					<p id="rights">All rights reserved</p>
+					<p>All rights reserved <i class="far fa-copyright"></i> Nguyen Ngoc Hai - BachkhoaAptech</p>
+					<p>nguyenngochaihlls@gmail.com</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End of footer -->
+
+
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="Boostrap4/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/angular-route.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>

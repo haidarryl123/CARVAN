@@ -1,0 +1,10 @@
+[{"id":"M1","name":"Mercedes A-Class","image":"images/mercedes1.webp","brand":"Mercedes","price":"100.000","range":"Sedan"},
+	{"id":"M2","name":"Mercedes C-Class","image":"images/mercedes2.webp","brand":"Mercedes","price":"120.000","range":"Sedan"},
+	{"id":"M3","name":"Mercedes E-Class","image":"images/mercedes3.webp","brand":"Mercedes","price":"150.000","range":"Sedan"},
+	{"id":"M4","name":"Mercedes Maybach S-Class","image":"images/mercedes4.webp","brand":"Mercedes","price":"1.190.000","range":"Sedan"},
+	{"id":"M5","name":"Mercedes S-Class","image":"images/mercedes5.webp","brand":"Mercedes","price":"530.000","range":"Sedan"},
+	{"id":"M6","name":"Mercedes G-Class","image":"images/mercedes6.webp","brand":"Mercedes","price":"590.000","range":"SUV"},
+	{"id":"M7","name":"Mercedes GLA","image":"images/mercedes7.webp","brand":"Mercedes","price":"195.000","range":"SUV"},
+	{"id":"M8","name":"Mercedes GLC","image":"images/mercedes8.webp","brand":"Mercedes","price":"200.000","range":"SUV"},
+	{"id":"M9","name":"Mercedes GLC coupé","image":"images/mercedes9.webp","brand":"Mercedes","price":"300.000","range":"Coupé"},
+	{"id":"M10","name":"Mercedes AMG coupé","image":"images/mercedes10.webp","brand":"Mercedes","price":"600.000","range":"Coupé"}]

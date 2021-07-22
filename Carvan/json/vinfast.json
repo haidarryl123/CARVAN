@@ -1,0 +1,4 @@
+[{"id":"V1","name":"Fadil","image":"images/vin3.png","brand":"VinFast","price":"17.000","range":"SUV"},
+	{"id":"V2","name":"Lux A2.0","image":"images/vin1.png","brand":"VinFast","price":"43.000","range":"Sedan"},
+	{"id":"V3","name":"Lux SA2.0","image":"images/vin2.png","brand":"VinFast","price":"56.000","range":"SUV"},
+	{"id":"V4","name":"President","image":"images/vin4.jpg","brand":"VinFast","price":"200.000","range":"SUV"}]

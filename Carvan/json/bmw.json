@@ -1,0 +1,10 @@
+[{"id":"B1","name":"BMW 3","image":"images/bmw1.png","brand":"lamborghini","price":"200.000","range":"Sedan"},
+	{"id":"B2","name":"BMW 5","image":"images/bmw2.webp","brand":"lamborghini","price":"220.000","range":"Sedan"},
+	{"id":"B3","name":"BMW 7","image":"images/bmw3.webp","brand":"lamborghini","price":"180.000","range":"Sedan"},
+	{"id":"B4","name":"BMW X2","image":"images/bmw4.png","brand":"lamborghini","price":"200.000","range":"Sport Coupé"},
+	{"id":"B5","name":"BMW X4","image":"images/bmw5.png","brand":"lamborghini","price":"130.000","range":"Sport Coupé"},
+	{"id":"B6","name":"BMW X5","image":"images/bmw6.webp","brand":"lamborghini","price":"210.000","range":"Sport Coupé"},
+	{"id":"B7","name":"BMW X6","image":"images/bmw7.webp","brand":"lamborghini","price":"200.000","range":"Sport Coupé"},
+	{"id":"B8","name":"BMW X1","image":"images/bmw8.webp","brand":"lamborghini","price":"180.000","range":"Sport Vehicle"},
+	{"id":"B9","name":"BMW X3","image":"images/bmw9.webp","brand":"lamborghini","price":"150.000","range":"Sport Vehicle"},
+	{"id":"B10","name":"BMW X7","image":"images/bmw10.webp","brand":"lamborghini","price":"195.000","range":"Sport Vehicle"}]
